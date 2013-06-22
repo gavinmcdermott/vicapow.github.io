@@ -11,7 +11,7 @@ Back in April of 2012, Twitter also put their employee patent agreement, the [In
 
 [Some people](https://github.com/maxogden) have event started using git with Github to version control their [cooking recipes](https://github.com/maxogden/recipes/blob/master/soup/chicken.md)
 
-The really amazing thing about git projects is that anyone can easily contribute to these works by what's called `forking` followed by a `pull request`. `Forking` allows you to have your very own version of these documents that you can edit and change anyway you like. A `pull request` allows you to recommend your changes back to the original authors, essentially saying "hey! how about you accept this change I made back into your version of the project?"
+The really amazing thing about git projects is that anyone can easily contribute to these works by what's called `forking` followed by a `pull request`. `Forking` allows you to have your very own version of these documents that you can edit and change anyway you like. A `pull request` allows you to recommend your changes back to the original authors, essentially saying, "Hey! how about you accept this change I made back into your version of the project?"
 
 This blog is even controlled with git. [Fork it and fix my typos!](https://github.com/vicapow/vicapow.github.io/blob/master/pages/posts/why-you-should-learn-git.md)
 
